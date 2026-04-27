@@ -1,2 +1,9 @@
-churn.db
+# Database files
+*.db
 *.db-journal
+
+# Python cache
+__pycache__/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
