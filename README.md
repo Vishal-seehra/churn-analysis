@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis (SQL + Power BI,)
+# 📊 Customer Churn Analysis (Python + SQL + Power BI)
 
 ## 🚀 Overview
 
@@ -52,7 +52,7 @@ churn-analysis/
 
 ---
 
-## 🧠 Churn Risk Scoring (No ML)
+## 🧠 Churn Risk Scoring
 
 Built a rule-based scoring system using SQL:
 
