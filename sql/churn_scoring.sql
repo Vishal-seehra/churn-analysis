@@ -7,6 +7,7 @@ SELECT
     MonthlyCharges,
     Contract,
     TechSupport,
+    PaymentMethod,
     Churn,
 
     (CASE WHEN tenure < 12 THEN 2 ELSE 0 END) +
